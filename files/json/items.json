@@ -1,0 +1,485 @@
+{
+	"1": 
+		{
+			"type":"cloth",
+			"name":"Tunique en coton",
+			"desc":"Def+1, Res+1",
+			"img":"Tunique en coton.png",
+			"def":1,
+			"res":1
+		},
+	"2":
+		{
+			"type":"leggings",
+			"name":"Bas en coton",
+			"desc":"Def+1, Res+1",
+			"img":"Bas en coton.png",
+			"def":1,
+			"res":1
+		},
+	"3":
+		{
+			"type":"gloves",
+			"name":"Gants en coton",
+			"desc":"Atk+2, Flux+2",
+			"img":"Gants en coton.png",
+			"atk":2,
+			"flux":2
+		},
+	"4":
+		{
+			"type":"shoes",
+			"name":"Bottes en coton",
+			"desc":"Spd+2",
+			"img":"Bottes en coton.png",
+			"spd":2
+		},
+	"5":
+		{
+			"type":"cloth",
+			"name":"Cape en cuir",
+			"desc":"Def+2, Res+2",
+			"img":"Cape en cuir.png",
+			"def":2,
+			"res":2
+		},
+	"6":
+		{
+			"type":"leggings",
+			"name":"Pantalon en cuir",
+			"desc":"Def+2, Res+2",
+			"img":"Pantalon en cuir.png",
+			"def":2,
+			"res":2
+		},
+	"7":
+		{
+			"type":"gloves",
+			"name":"Gants en cuir",
+			"desc":"Atk+4, Flux+4",
+			"img":"Gants en cuir.png",
+			"atk":4,
+			"flux":4
+		},
+	"8":
+		{
+			"type":"shoes",
+			"name":"Bottes en cuir",
+			"desc":"Spd+4",
+			"img":"Bottes en cuir.png",
+			"spd":4
+		},
+	"9":
+		{
+			"type":"cloth",
+			"name":"Veste en cuir renforcé",
+			"desc":"Def+4, Res+4",
+			"img":"Veste en cuir renforcé.png",
+			"def":4,
+			"res":4
+		},
+	"10":
+		{
+			"type":"leggings",
+			"name":"Pantalon en cuir renforcé",
+			"desc":"Def+4, Res+4",
+			"img":"Pantalon en cuir renforcé.png",
+			"def":4,
+			"res":4
+		},
+	"11":
+		{
+			"type":"gloves",
+			"name":"Gants en cuir renforcé",
+			"desc":"Atk+8, Flux+8",
+			"img":"Gants en cuir renforcé.png",
+			"atk":8,
+			"flux":8
+		},
+	"12":
+		{
+			"type":"shoes",
+			"name":"Bottes en cuir renforcé",
+			"desc":"Spd+8",
+			"img":"Bottes en cuir renforcé.png",
+			"spd":8
+		},
+	"13":
+		{
+			"type":"cloth",
+			"name":"Plastron léger",
+			"desc":"Def+5, Res+5",
+			"img":"Plastron léger.png",
+			"def":5,
+			"res":5
+		},
+	"14":
+		{
+			"type":"leggings",
+			"name":"Pantalon souple",
+			"desc":"Def+5, Res+5",
+			"img":"Pantalon souple.png",
+			"def":5,
+			"res":5
+		},
+	"15":
+		{
+			"type":"gloves",
+			"name":"Bracelet en bronze",
+			"desc":"Atk+10, Flux+10",
+			"img":"Bracelet en bronze.png",
+			"atk":10,
+			"flux":10
+		},
+	"16":
+		{
+			"type":"shoes",
+			"name":"Bottes légères",
+			"desc":"Spd+10",
+			"img":"Bottes légères.png",
+			"spd":10
+		},
+	"17":
+		{
+			"type":"cloth",
+			"name":"Plastron lourd",
+			"desc":"Def+6, Res+6",
+			"img":"Plastron lourd.png",
+			"def":6,
+			"res":6
+		},
+	"18":
+		{
+			"type":"leggings",
+			"name":"Bas en mailles",
+			"desc":"Def+6, Res+6",
+			"img":"Bas en mailles.png",
+			"def":6,
+			"res":6
+		},
+	"19":
+		{
+			"type":"gloves",
+			"name":"Gants lourds",
+			"desc":"Atk+12, Flux+12",
+			"img":"Gants lourds.png",
+			"atk":12,
+			"flux":12
+		},
+	"20":
+		{
+			"type":"shoes",
+			"name":"Bottes lourdes",
+			"desc":"Spd+12",
+			"img":"Bottes lourdes.png",
+			"spd":12
+		},
+	"21":
+		{
+			"type":"cloth",
+			"name":"Armure en acier",
+			"desc":"Def+8, Res+8",
+			"img":"Armure en acier.png",
+			"def":8,
+			"res":8
+		},
+	"22":
+		{
+			"type":"leggings",
+			"name":"Pantalon à plaques",
+			"desc":"Def+8, Res+8",
+			"img":"Pantalon à plaques.png",
+			"def":8,
+			"res":8
+		},
+	"23":
+		{
+			"type":"gloves",
+			"name":"Gants d'acier",
+			"desc":"Atk+16, Flux+16",
+			"img":"Gants d'acier.png",
+			"atk":16,
+			"flux":16
+		},
+	"24":
+		{
+			"type":"shoes",
+			"name":"Bottes d'acier",
+			"desc":"Spd+16",
+			"img":"Bottes d'acier.png",
+			"spd":16
+		},
+	"25":
+		{
+			"type":"cloth",
+			"name":"Armure de la Brume",
+			"desc":"Def+4, Res+4, Spd+4",
+			"img":"Armure de la Brume.png",
+			"def":4,
+			"res":4,
+			"spd":4
+		},
+	"26":
+		{
+			"type":"leggings",
+			"name":"Pantalon de la Brume",
+			"desc":"Def+4, Res+4, Spd+4",
+			"img":"Pantalon de la Brume.png",
+			"def":4,
+			"res":4,
+			"spd":4
+		},
+	"27":
+		{
+			"type":"gloves",
+			"name":"Gants de la Brume",
+			"desc":"Atk+8, Flux+8, Spd+2",
+			"img":"Gants de la Brume.png",
+			"atk":8,
+			"flux":8,
+			"spd":2
+		},
+	"28":
+		{
+			"type":"shoes",
+			"name":"Bottes de la Brume",
+			"desc":"Spd+10",
+			"img":"Bottes de la Brume.png",
+			"spd":10
+		},
+	"29":
+		{
+			"type":"cloth",
+			"name":"Armure de la Tempête",
+			"desc":"Def+6, Res+6, Spd+6",
+			"img":"Armure de la Tempête.png",
+			"def":6,
+			"res":6,
+			"spd":6
+		},
+	"30":
+		{
+			"type":"leggings",
+			"name":"Pantalon de la Tempête",
+			"desc":"Def+6, Res+6, Spd+6",
+			"img":"Pantalon de la Tempête.png",
+			"def":6,
+			"res":6,
+			"spd":6
+		},
+	"31":
+		{
+			"type":"gloves",
+			"name":"Gants de la Tempête",
+			"desc":"Atk+12, Flux+12, Spd+6",
+			"img":"Gants de la Tempête.png",
+			"atk":12,
+			"flux":12,
+			"spd":6
+		},
+	"32":
+		{
+			"type":"shoes",
+			"name":"Bottes de la Tempête",
+			"desc":"Spd+12",
+			"img":"Bottes de la Tempête.png",
+			"spd":12
+		},
+	"33":
+		{
+			"type":"cloth",
+			"name":"Armure de l'Avalanche",
+			"desc":"Def+11, Res+11",
+			"img":"Armure de l'Avalanche.png",
+			"def":11,
+			"res":11
+		},
+	"34":
+		{
+			"type":"leggings",
+			"name":"Pantalon de l'Avalanche",
+			"desc":"Def+11, Res+11",
+			"img":"Pantalon de l'Avalanche.png",
+			"def":11,
+			"res":11
+		},
+	"35":
+		{
+			"type":"gloves",
+			"name":"Gants de l'Avalanche",
+			"desc":"Atk+22, Flux+22",
+			"img":"Gants de l'Avalanche.png",
+			"atk":22,
+			"flux":22
+		},
+	"36":
+		{
+			"type":"shoes",
+			"name":"Bottes de l'Avalanche",
+			"desc":"Spd+22",
+			"img":"Bottes de l'Avalanche.png",
+			"spd":22
+		},
+	"37":
+		{
+			"type":"orb",
+			"name":"Orbe ATK Nv 1",
+			"desc":"ATK+5%",
+			"img":"OrbeATK.png",
+			"orbType":"atk",
+			"orbLevel":1
+		},
+	"38":
+		{
+			"type":"orb",
+			"name":"Orbe ATK Nv 2",
+			"desc":"ATK+10%",
+			"img":"OrbeATK.png",
+			"orbType":"atk",
+			"orbLevel":2
+		},
+	"39":
+		{
+			"type":"orb",
+			"name":"Orbe ATK Nv 3",
+			"desc":"ATK+15%",
+			"img":"OrbeATK.png",
+			"orbType":"atk",
+			"orbLevel":3
+		},
+	"40":
+		{
+			"type":"orb",
+			"name":"Orbe DEF Nv 1",
+			"desc":"DEF+5%",
+			"img":"OrbeDEF.png",
+			"orbType":"def",
+			"orbLevel":1
+		},
+	"41":
+		{
+			"type":"orb",
+			"name":"Orbe DEF Nv 2",
+			"desc":"DEF+10%",
+			"img":"OrbeDEF.png",
+			"orbType":"def",
+			"orbLevel":2
+		},
+	"42":
+		{
+			"type":"orb",
+			"name":"Orbe DEF Nv 3",
+			"desc":"DEF+15%",
+			"img":"OrbeDEF.png",
+			"orbType":"def",
+			"orbLevel":3
+		},
+	"43":
+		{
+			"type":"orb",
+			"name":"Orbe VIT Nv 1",
+			"desc":"VIT+5%",
+			"img":"OrbeVIT.png",
+			"orbType":"spd",
+			"orbLevel":1
+		},
+	"44":
+		{
+			"type":"orb",
+			"name":"Orbe VIT Nv 2",
+			"desc":"VIT+10%",
+			"img":"OrbeVIT.png",
+			"orbType":"spd",
+			"orbLevel":2
+		},
+	"45":
+		{
+			"type":"orb",
+			"name":"Orbe VIT Nv 3",
+			"desc":"VIT+15%",
+			"img":"OrbeVIT.png",
+			"orbType":"spd",
+			"orbLevel":3
+		},
+	"46":
+		{
+			"type":"orb",
+			"name":"Orbe FLUX Nv 1",
+			"desc":"FLUX+5%",
+			"img":"OrbeFLUX.png",
+			"orbType":"flux",
+			"orbLevel":1
+		},
+	"47":
+		{
+			"type":"orb",
+			"name":"Orbe FLUX Nv 2",
+			"desc":"FLUX+10%",
+			"img":"OrbeFLUX.png",
+			"orbType":"flux",
+			"orbLevel":2
+		},
+	"48":
+		{
+			"type":"orb",
+			"name":"Orbe FLUX Nv 3",
+			"desc":"FLUX+15%",
+			"img":"OrbeFLUX.png",
+			"orbType":"flux",
+			"orbLevel":3
+		},
+	"49":
+		{
+			"type":"orb",
+			"name":"Orbe PV Nv 1",
+			"desc":"PV+5%",
+			"img":"OrbePV.png",
+			"orbType":"pv",
+			"orbLevel":1
+		},
+	"50":
+		{
+			"type":"orb",
+			"name":"Orbe PV Nv 2",
+			"desc":"PV+10%",
+			"img":"OrbePV.png",
+			"orbType":"pv",
+			"orbLevel":2
+		},
+	"51":
+		{
+			"type":"orb",
+			"name":"Orbe PV Nv 3",
+			"desc":"PV+15%",
+			"img":"OrbePV.png",
+			"orbType":"pv",
+			"orbLevel":3
+		},
+	"52":
+		{
+			"type":"orb",
+			"name":"Orbe PF Nv 1",
+			"desc":"PF+5%",
+			"img":"OrbePF.png",
+			"orbType":"pf",
+			"orbLevel":1
+		},
+	"53":
+		{
+			"type":"orb",
+			"name":"Orbe PF Nv 2",
+			"desc":"PF+10%",
+			"img":"OrbePF.png",
+			"orbType":"pf",
+			"orbLevel":2
+		},
+	"54":
+		{
+			"type":"orb",
+			"name":"Orbe PF Nv 3",
+			"desc":"PF+15%",
+			"img":"OrbePF.png",
+			"orbType":"pf",
+			"orbLevel":3
+		}
+}
